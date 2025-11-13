@@ -1,0 +1,6 @@
+matplotlib
+numpy
+memory_profiler
+jupyter
+seaborn
+pandas
