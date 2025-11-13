@@ -1,9 +1,5 @@
 Algorithm Efficiency – Mini Project
 
-Name: Nishant Kumar  
-Roll No: 2301201061  
-Course: ENCA351
-
 What’s here
 - src/algorithms.py – basic versions of Fibonacci, sorting (bubble/insertion/selection/merge/quick) and binary search.
 - algo_analysis_notebook.ipynb – runs small tests, makes simple plots, and has short notes.
